@@ -79,19 +79,14 @@ Add or remove movies from the favorite list.
 Show a separate screen for the list of favorite movies.
 
 5. Weather App
-
 Description:
-
 Create a weather app that displays the current weather based on the user's location or a city search. Implement offline caching of weather data.
 
 Provider Usage:
-
 Use ChangeNotifier to manage weather data and city searches. Notify listeners when weather data is fetched or updated.
 
 Features to Implement:
 
 Fetch weather data using an API (e.g., OpenWeather API).
-
 Allow users to search for weather by city name.
-
 Display the current temperature, weather condition, and city name.

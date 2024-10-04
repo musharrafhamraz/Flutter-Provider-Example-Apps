@@ -1,12 +1,12 @@
-Flutter Practice Projects: State Management with Provider
+# Flutter Practice Projects: State Management with Provider
 
 
 This repository contains beginner-level Flutter app ideas to help you practice state management using the provider package. Each app demonstrates how to use ChangeNotifier to manage and notify listeners when the state changes.
 
 
-App Ideas
+## App Ideas
 
-1. To-Do List App
+### 1. To-Do List App
 
 Description:
 
@@ -24,7 +24,7 @@ Update task status (completed or not).
 
 Delete tasks and filter by completed/incomplete tasks.
 
-2. Shopping Cart App
+### 2. Shopping Cart App
 
 Description:
 
@@ -42,7 +42,7 @@ Add products to the cart and adjust quantities.
 
 Show the total price of items in the cart.
 
-3. Simple Counter App with Multiple Counters
+### 3. Simple Counter App with Multiple Counters
 
 Description:
 
@@ -60,7 +60,7 @@ Increment or decrement the count for each counter.
 
 Reset counters individually or all at once.
 
-4. Favorite Movies App
+### 4. Favorite Movies App
 
 Description:
 
@@ -79,6 +79,7 @@ Add or remove movies from the favorite list.
 Show a separate screen for the list of favorite movies.
 
 5. Weather App
+
 Description:
 Create a weather app that displays the current weather based on the user's location or a city search. Implement offline caching of weather data.
 
@@ -88,5 +89,7 @@ Use ChangeNotifier to manage weather data and city searches. Notify listeners wh
 Features to Implement:
 
 Fetch weather data using an API (e.g., OpenWeather API).
+
 Allow users to search for weather by city name.
+
 Display the current temperature, weather condition, and city name.

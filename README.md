@@ -90,8 +90,13 @@ Use ChangeNotifier to manage weather data and city searches. Notify listeners wh
 
 Features to Implement:
 
-Fetch weather data using an API (e.g., OpenWeather API).
+1. Fetch weather data using an API (e.g., OpenWeather API).
+2. Allow users to search for weather by city name.
+3. Display the current temperature, weather condition, and city name.
 
-Allow users to search for weather by city name.
+# Getting Started
 
-Display the current temperature, weather condition, and city name.
+1. Clone this repository:
+### git clone https://github.com/musharrafhamraz/Flutter-Provider-Example-Apps.git
+
+2. Navigate to each project directory for detailed instructions on running the specific app.
